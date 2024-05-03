@@ -7,7 +7,8 @@ import { setupCounter } from "./counter.ts"
 // import "./objects.ts"
 // import "./functions.ts"
 // import "./optionalParams.ts"
-import "./objectParams.ts"
+// import "./objectParams.ts"
+import "./typeAlias.ts"
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
