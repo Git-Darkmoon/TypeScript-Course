@@ -24,7 +24,7 @@ const newStudent = {
 createStudent(newStudent)
 createStudent({ id: 11, name: "Johny" })
 
-// challenge]
+// challenge
 
 function processData(
   input: string | number,
