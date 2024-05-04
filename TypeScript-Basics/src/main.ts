@@ -10,7 +10,8 @@ import { setupCounter } from "./counter.ts"
 // import "./objectParams.ts"
 // import "./typeAlias.ts"
 // import "./inferfaces.ts"
-import "./tuples.ts"
+// import "./tuples.ts"
+import "./enum.ts"
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
