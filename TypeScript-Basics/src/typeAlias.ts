@@ -1,4 +1,4 @@
-type User = { id: number; name: string; isActive: boolean }
+export type User = { id: number; name: string; isActive: boolean }
 
 const john: User = {
   id: 1,
