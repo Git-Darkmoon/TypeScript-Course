@@ -14,7 +14,8 @@ import { setupCounter } from "./counter.ts"
 // import "./enum.ts"
 // import "./typeAssertion.ts"
 // import "./modules.ts"
-import "./typeGuards.ts"
+// import "./typeGuards.ts"
+import "./generics.ts"
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
