@@ -13,7 +13,8 @@ import { setupCounter } from "./counter.ts"
 // import "./tuples.ts"
 // import "./enum.ts"
 // import "./typeAssertion.ts"
-import "./modules.ts"
+// import "./modules.ts"
+import "./typeGuards.ts"
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
