@@ -15,7 +15,9 @@ import { setupCounter } from "./counter.ts"
 // import "./typeAssertion.ts"
 // import "./modules.ts"
 // import "./typeGuards.ts"
-import "./generics.ts"
+// import "./generics.ts"
+// import "./fetchData.ts"
+import "./class.ts"
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
