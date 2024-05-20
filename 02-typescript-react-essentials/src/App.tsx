@@ -1,11 +1,10 @@
-import Component from "./starter/02-props"
+import Component from "./starter/05-challenge"
 
 function App() {
   return (
     <main>
-      <Component title="peter" id={123}>
-        <h2>Hello world</h2>
-      </Component>
+      <Component type="basic" name="susan" />
+      <Component type="advanced" name="susan" email="susan@example" />
     </main>
   )
 }
