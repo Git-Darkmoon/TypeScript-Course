@@ -1,10 +1,9 @@
-import Component from "./starter/05-challenge"
+import Component from "./starter/09-rtk"
 
 function App() {
   return (
     <main>
-      <Component type="basic" name="susan" />
-      <Component type="advanced" name="susan" email="susan@example" />
+      <Component />
     </main>
   )
 }
