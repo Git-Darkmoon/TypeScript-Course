@@ -1,4 +1,4 @@
-import Component from "./starter/09-rtk"
+import Component from "./starter/10-tasks/index"
 
 function App() {
   return (
